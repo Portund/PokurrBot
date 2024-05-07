@@ -4,7 +4,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import datetime
 
-API_TOKEN = '6990432870:AAEcEtFtR9yJUQF-bDKJz82PCOuPXl2ZLVo'
+API_TOKEN = '...'
 
 bot = Bot(token=API_TOKEN)
 loop = asyncio.get_event_loop()
